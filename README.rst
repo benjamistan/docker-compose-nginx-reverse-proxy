@@ -1,4 +1,4 @@
-Creating demo platforms using docker-compose
+For creating demo platforms using docker-compose
 ============================================
 
 Sending applications to production is an area where our team could be greatly improved. 
